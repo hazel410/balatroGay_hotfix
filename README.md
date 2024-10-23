@@ -2,7 +2,7 @@
 
 # Balatro Gay Mod
 
-Changes a "Straight" into a "Gay".
+Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus.
 
 Originally made for balamod, but this fork is for Steammodded
 
