@@ -3,7 +3,9 @@
 
 
 
-# Balatro Gay Mod
+# Balatro Gay Penis Mod
+
+haha funny word lmao
 
 Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus.
 
