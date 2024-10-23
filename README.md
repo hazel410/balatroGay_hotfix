@@ -1,4 +1,8 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
+![Balatro_2VxGzxXkKq](https://github.com/user-attachments/assets/26198ef5-9133-4081-a3b1-e6aa2e46767f)
+![Balatro_PJlwNdsP0z](https://github.com/user-attachments/assets/3515bebe-7a35-4223-98fc-d06b574e30b8)
+
+
 
 # Balatro Gay Mod
 
