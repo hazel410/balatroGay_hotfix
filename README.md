@@ -1,6 +1,6 @@
 # Balatro Straight -> Gay Hotfix
 
-## protect trans kids
+protect trans kids!
 
 Changes occurences of "Straight" to "Gay"
 
