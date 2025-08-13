@@ -6,6 +6,9 @@ Changes occurences of "Straight" to "Gay"
 
 (fixes instances in the original from FosterBarnes where straight was not changed)
 
+# TODO
+when leveling up jupiter from a skip tag, the animation shows "Straight"
+
 # How do I install the mod?
 ## Windows
 1. Install [Steammodded](https://github.com/Steamopollys/Steamodded)
